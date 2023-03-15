@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADIntegration", "AzureADIntegration\AzureADIntegration.csproj", "{F82CA3C5-6ADD-4619-889B-0829989FC279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82CA3C5-6ADD-4619-889B-0829989FC279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82CA3C5-6ADD-4619-889B-0829989FC279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82CA3C5-6ADD-4619-889B-0829989FC279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82CA3C5-6ADD-4619-889B-0829989FC279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2813898-47D6-417C-B2AA-E2047AFD5212}
+	EndGlobalSection
+EndGlobal
