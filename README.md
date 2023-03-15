@@ -1,1 +1,1 @@
-# AzureADIntegration
+# AzureADIntegration so called InternalCommunication
